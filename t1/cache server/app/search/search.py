@@ -101,7 +101,7 @@ if __name__ == '__main__':
         print("\nChoose an operation:")
         print("1. Get")
         print("2. Simulate Searches")
-        print("3. Clear Cache")
+        print("3. Clear Cache (Experimental)")
         print("4. Exit")
 
         choice = input("Enter your choice: ")
